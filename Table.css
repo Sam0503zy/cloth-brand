@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ten{
+    background-color: rgb(88, 138, 155);
+    border-radius: 15px;
+    height: 300px;
+    width: 400px;
+    
+}label{
+    color: blue;
+    initial-value: ;
+}                                     
